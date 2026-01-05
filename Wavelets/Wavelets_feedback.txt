@@ -1,0 +1,51 @@
+09/09/25 04:12
+
+Prob1 (5 points):
+Score += 5
+
+Prob2 (5 points):
+Score += 5
+
+Prob3 (10 points):
+First one should also have 4 images, others have incorrect bands
+Score += 5
+
+Prob4 (10 points):
+Your pictures are too fuzzy. I think this is because instead of adding new_H, new_V, and new_D each as elements of the list, you are adding them as a big tuple. Try not doing that and see if it fixes it. The list should look like [approx, new_H1, new_V1, new_D1, new_H2, new_V2, ...]
+Score += 5
+
+Prob5-Prob7 (15 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 25/50 = 50.0%
+
+-------------------------------------------------------------------------------
+
+09/13/25 02:53
+
+Prob1 (5 points):
+Score += 5
+
+Prob2 (5 points):
+Score += 5
+
+Prob3 (10 points):
+Score += 10
+
+Prob4 (10 points):
+Score += 10
+
+Prob5-Prob7 (15 points):
+Problem 6 & 7 not complete
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
